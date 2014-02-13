@@ -1,0 +1,30 @@
+:: Creating a new project::
+
+git init
+~Innitialize a new empty git repository in this folder~
+
+git add .
+~Adds all the files in the current folder and in its subdirectories~
+
+git status
+~Show the current status~
+
+git commit --author="<author> <<email>>"
+~Commit mensage~
+
+git remote add origin https://github.com/<user>/<repository>
+~Define which is the destination of the commit~
+
+git push -f origin master
+~Makes the first commit forced~
+
+git checkout -b <newbranch>
+~creates a new local branch~
+
+git status
+git add .
+git commit ...
+~Makes the same thing that I already said
+
+git push origin <newbranch> --set-upstream
+~sync the remote branch with the local~
