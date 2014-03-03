@@ -28,3 +28,9 @@ git commit ...
 
 git push origin <newbranch> --set-upstream
 ~sync the remote branch with the local~
+
+git branch -d <branch-name>
+~delete local branch~
+
+git push origin :<branch-name>
+~Upload deleted branch action~
