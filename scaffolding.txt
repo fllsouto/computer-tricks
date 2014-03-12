@@ -1,0 +1,13 @@
+~Creating a new scaffolding~
+$ rails generate <typeofmvcagent> <Classname> <actionmethodname>
+
+ex:
+
+$ rails generate controller Store index
+
+~Destroying a existent scaffolding~
+$ rails destroy <typeofmvcagent> <Classname> <actionmethodname>
+
+ex:
+
+$ rails destroy controller Store index
