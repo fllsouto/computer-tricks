@@ -1,0 +1,14 @@
+$rvm current
+~Show the current version of ruby which is in use~
+
+$rvm get head
+~Update installed RVM to the lastest version~
+
+$rvm upgrade <version>
+~Update ruby to the specified version~
+
+$rvm list
+~List all the versions avaliable in PC~
+
+$rvm use ruby-<version> --default
+~Sets a specifies version of ruby~
