@@ -12,3 +12,9 @@ $rvm list
 
 $rvm use ruby-<version> --default
 ~Sets a specifies version of ruby~
+
+----------------------------------
+
+path for rvm folder
+
+/home/<user>/.rvm
