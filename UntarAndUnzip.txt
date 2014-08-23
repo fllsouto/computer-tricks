@@ -1,0 +1,14 @@
+Next, untar file, enter:
+$ tar -zxvf rarlinux-3.6.0.tar.gz
+
+To extract file.rar file into the current directory, enter:
+$ unrar e file.rar
+
+Task: List (l) file inside rar archive:
+$ unrar l file.rar
+
+Task: To extract (x) files with full path type command:
+$ unrar x file.rar
+
+(D) To test (t) integrity of archive, file type command:
+$ unrar t file.rar

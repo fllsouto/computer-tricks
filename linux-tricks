@@ -6,3 +6,9 @@ $ sudo dpkg -r <packagename>
 
 $ sudo dpkg-reconfigure <packagename>
 ~Reconfigure/Repair an installer Debian(Ubuntu) package
+
+$ uname -a
+~Find out which kernel architecture is running
+
+crtl+l in directory
+~Show the path for that directory

@@ -1,0 +1,20 @@
+CRTL+P
+~Alterna entre arquivos de um diretório~
+
+CRTL+SHFIT+P
+~Alterna entre projetos~
+
+SHIFT+Botão direito do mouse
+~Seleção em coluna~
+
+CTRL+D
+~Seleciona uma determinada palavra e suas ocorrências
+
+CTRL+K+D
+~Pula uma ocorrência~
+
+CTRL+SHIFT+D
+~Duplica linha~
+
+CTRL+K
+~Apaga linha~

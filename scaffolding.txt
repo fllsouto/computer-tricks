@@ -1,3 +1,9 @@
+~Creating a new rails project
+$rails new <projectname> -dt
+
+d - bd mysql
+t - without unit test
+
 ~Creating a new scaffolding~
 $ rails generate <typeofmvcagent> <Classname> <actionmethodname>
 
@@ -11,3 +17,6 @@ $ rails destroy <typeofmvcagent> <Classname> <actionmethodname>
 ex:
 
 $ rails destroy controller Store index
+
+Sempre que eu criar uma tabela ou coluna e uma branch e mudar para a outra e repetir os passos eu preciso dar drop no banco de dados diretamente.
+Isso acontece pq o banco de dados é o mesmo para as duas branchs.
