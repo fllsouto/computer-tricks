@@ -34,3 +34,17 @@ git branch -d <branch-name>
 
 git push origin :<branch-name>
 ~Upload deleted branch action~
+
+git remote add <nomedoremote> <pathdoremote>
+~Adds a remote to git~
+
+git remote
+~List the remote list~
+
+git remote show <remotename>
+~show informations about remote, like url~
+
+git remove -v
+~list the remotes links~
+
+git remote set-url <remote_name> <remote_url>

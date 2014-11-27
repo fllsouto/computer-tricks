@@ -12,3 +12,9 @@ $ uname -a
 
 crtl+l in directory
 ~Show the path for that directory
+
+lsof -i :<port>
+~Show pid of the process that are running on these port~
+
+ps ax
+~Show process that are running in some conditions~

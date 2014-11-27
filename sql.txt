@@ -1,0 +1,2 @@
+$ pv <temp.file> | mysql -u<user> -p<pass> <db-name>
+~Import dump file into a database and show the progress pipeline~

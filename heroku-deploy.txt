@@ -1,0 +1,14 @@
+$heroku login
+~faz login na conta da Heroku~
+
+$git init && git add . && git commit -m "initial commit"
+~Comeca um novo repo no git. A heroku usa o git para fazer deploy ~
+
+$heroku create
+~Cria uma nova aplicacao na heroku~
+
+$git push heroku master
+~faz deploy da aplicacao~
+
+$heroku open
+~Mostra a nova aplicacao~
