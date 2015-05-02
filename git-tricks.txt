@@ -48,3 +48,5 @@ git remove -v
 ~list the remotes links~
 
 git remote set-url <remote_name> <remote_url>
+
+https://orrsella.com/2013/08/10/git-using-different-user-emails-for-different-repositories/
