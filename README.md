@@ -1,3 +1,3 @@
 # Computer Tricks Repo
 
-By [Fellipe Souto](fllsouto@gmail.com)
+By [Fellipe Souto](mailto:fllsouto@gmail.com)
