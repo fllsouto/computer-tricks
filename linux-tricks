@@ -21,3 +21,9 @@ ps ax
 
 pv 
 ~pipeline monitor~
+
+tar xvfz <file>
+~untar .tar.gz files~
+
+tar xvfj <file>
+~untar .tar.bz2 files~

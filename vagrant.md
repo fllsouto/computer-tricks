@@ -31,3 +31,7 @@ Print the vagrant help, it's possible to specify a command and run with '-h' to 
 
 ## Vagrantfile important statements
 
+    config.vm.synced_folder <host-folder>, <guest-folder>, <optional params>  
+    
+This command configures a synced folder between host(physic machine) and guest(virtual machine). The guest 
+path must be the absolute path, and host path is relative to folder where Vagrantfile are defined.
